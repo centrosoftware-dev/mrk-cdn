@@ -17031,6 +17031,10 @@ textarea.form-control-lg {
   --shp-space-72: 4.5rem;
   --shp-space-80: 5rem;
   --shp-space-96: 6rem;
+  --shp-accent: #17ff88;
+  --shp-accent-bold: #00df6d;
+  --shp-white: #ffffff;
+  --shp-black: #000000;
   --shp-brand-0: #f4f6f9;
   --shp-brand-50: #e4e8ed;
   --shp-brand-100: #bac4d4;
